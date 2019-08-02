@@ -118,9 +118,7 @@ class LDAPAccess(object):
         return res
 
 class TestADSISearcher(unittest.TestCase):
-    _uri="LDAP://UKSSQGC01/DC=uk,DC=kworld,DC=kpmg,DC=com"
-    #_creds=('uk\ksmelkovs1',"YXJ5aG8xZ09sZmdlYnc=\n".decode('base64').decode('rot13'))
-    #_creds=(username,password)=file(r'creds.txt','rb').read().decode('base64').decode('rot13').split(":")
+    _uri="LDAP://xyZ"
     def setUp(self):
         self.searcher=LDAPAccess(self._uri,*self._creds)
         
