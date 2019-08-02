@@ -1,0 +1,9 @@
+pydot
+pywin32
+# you proably want to download from here:
+# https://www.lfd.uci.edu/~gohlke/pythonlibs/#python-ldap
+# e.g. https://download.lfd.uci.edu/pythonlibs/n5jyqt7p/python_ldap-3.2.0-cp27-cp27m-win_amd64.whl
+python-ldap
+
+# py2exe if you build stuff
+# https://download.lfd.uci.edu/pythonlibs/n5jyqt7p/py2exe-0.6.10a1-cp27-none-win_amd64.whl
