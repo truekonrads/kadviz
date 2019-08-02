@@ -4,9 +4,11 @@ The kadviz is a command line utility is used to enumerate an Active Directory (A
 
 Currently, two output modes are supported: as comma separated value file (CSV) and as a directed graph using GraphViz graphing engine.
 
+![Sample output](https://github.com/truekonrads/kadviz/raw/master/gallery/example.png)
+
 # Installation
 
-kadviz uses GraphViz to draw graphs. The GraphViz is a free, open source graphing package which can be downloaded from the official site: [http://www.graphviz.org/Download..php](http://www.graphviz.org/Download..php)
+kadviz uses GraphViz to draw graphs. The GraphViz is a free, open source graphing package which can be [downloaded from the official site] (http://www.graphviz.org/Download..php)
 
 You will need to install it to be able to draw graphs.
 
