@@ -8,7 +8,7 @@ Currently, two output modes are supported: as comma separated value file (CSV) a
 
 # Installation
 
-kadviz uses GraphViz to draw graphs. The GraphViz is a free, open source graphing package which can be [downloaded from the official site] (http://www.graphviz.org/Download..php)
+kadviz uses GraphViz to draw graphs. The GraphViz is a free, open source graphing package which can be [downloaded from the official site](http://www.graphviz.org/Download..php)
 
 You will need to install it to be able to draw graphs.
 
